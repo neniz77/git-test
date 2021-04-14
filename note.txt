@@ -2,5 +2,6 @@ note1
 n2
 n3
 n4
-1st-change-in-master
-2nd-change-in-master
+First-commit-in-feature2
+Second-commit-in-feature2
+
